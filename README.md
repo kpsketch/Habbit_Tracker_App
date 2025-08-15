@@ -1,5 +1,6 @@
 # 📅 Weekly Habit Tracker
 
+![alt text](9DE3EBF9-74C6-43F2-9527-01524AF04975_1_201_a.jpeg)
 The **Weekly Habit Tracker** is a Java Swing desktop application designed to help users **plan and track their daily habits on a weekly basis**.  
 It’s ideal for students, professionals, or anyone who wants a simple, offline tool for organizing their week.  
 With a **color-coded table**, week selection, and **export feature**, it combines **simplicity** with **practical functionality**.
